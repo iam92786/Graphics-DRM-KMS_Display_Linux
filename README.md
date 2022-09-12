@@ -9,7 +9,13 @@
  * Each subsytem provides its own set of features
  * Different levels of complexity
  * Different levels of activity
-
+### DRM/KMS Components: CRTC (display timings)
+ * HSYNC pulse is used to inform the display it should go to the
+   next pixel line.
+ * VSYNC pulse is used to inform the display it should start to
+   display a new frame and thus go back to the first line.
+ * CRTC = CRT controller (Cathod Ray Tube Controller)
+   legacy name of Display controller controller 
 ## Ref
   * https://wiki.st.com/stm32mpu/wiki/DRM_KMS_overview
   * https://dri.freedesktop.org/docs/drm/gpu/introduction.html
