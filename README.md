@@ -19,3 +19,7 @@
 ## Ref
   * https://wiki.st.com/stm32mpu/wiki/DRM_KMS_overview
   * https://dri.freedesktop.org/docs/drm/gpu/introduction.html
+  * http://moi.vonos.net/linux/drm-and-kms/ (KMS/DRM conept)
+  * http://moi.vonos.net/linux/graphics-card-interfaces/
+  * http://landley.net/kdocs/htmldocs/drm.html
+  * http://moi.vonos.net/linux/graphics-stack/
